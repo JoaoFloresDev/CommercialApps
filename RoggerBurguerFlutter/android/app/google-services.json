@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "71488546291",
+        "firebase_url": "https://roggerapp-64174.firebaseio.com",
+        "project_id": "roggerapp-64174",
+        "storage_bucket": "roggerapp-64174.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:71488546291:android:e3ec4c1f0e87e68a8e5e86",
+            "android_client_info": {
+                "package_name": "com.joao.roggerburguers"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "71488546291-us6k15se1el4519s2ji4l1cuvm55a9fr.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyBJl6ZzfXMzO6P7Ludcs8x_euXXezQYMvw"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "71488546291-us6k15se1el4519s2ji4l1cuvm55a9fr.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "71488546291-ta29n05q82h29gdu0dkh6h21kvlmq5qt.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "joaoFlores.Burger"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
